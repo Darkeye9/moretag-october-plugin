@@ -35,3 +35,4 @@ The page to which the _Read More_ link has to point can be set by passing the UR
 ```
 post.content_html|untilMore(URL)
 ```
+If no URL is supplied then an ellipsis is shown.
