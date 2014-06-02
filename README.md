@@ -5,7 +5,7 @@ Plugin for October CMS that provides a Twig filter to implement a "ReadMore" tag
 1. Check out this repository to the `plugins` directory of your October setup.
 2. Exist and login again at the backend to refresh October's plugin cache.
 
-Or you can get it seamessly installed in your October project visiting the October Marketplace.
+Or you can get it seamessly installed in your October project visiting the [October Marketplace](http://octobercms.com/plugin/darkeye-moretag "More Tag Plugin").
 
 ##Usage
 Insert the _More_ tag into your blog posts, articles... like:
